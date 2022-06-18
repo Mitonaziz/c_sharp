@@ -70,6 +70,16 @@ namespace file1
             int SearchIndex = inpute.IndexOf(searchInput);
             Console.WriteLine("Index of character {0} in string is {1}", searchInput, SearchIndex);
 
+
+            //concating
+            Console.WriteLine("Enter your first name");
+            string firstname = Console.ReadLine();
+            Console.WriteLine("enter your last name=");
+            string lastname = Console.ReadLine();
+            string fullName = string.Concat(firstname, " ", lastname);
+            Console.WriteLine("Your full name is ={0}", fullName);
+
+
             Console.ReadKey();
 
 
