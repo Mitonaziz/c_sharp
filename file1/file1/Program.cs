@@ -61,6 +61,14 @@ namespace file1
             Console.WriteLine(myNameTrimmed);
             Console.WriteLine(myNamesubstring);
 
+            //string
+            Console.WriteLine("Enter your string =");
+            string inpute = Console.ReadLine();
+
+            Console.WriteLine("Ener your char");
+            char searchInput = Console.ReadLine()[0];
+            int SearchIndex = inpute.IndexOf(searchInput);
+            Console.WriteLine("Index of character {0} in string is {1}", searchInput, SearchIndex);
 
             Console.ReadKey();
 
