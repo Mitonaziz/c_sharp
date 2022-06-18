@@ -79,6 +79,14 @@ namespace file1
             string fullName = string.Concat(firstname, " ", lastname);
             Console.WriteLine("Your full name is ={0}", fullName);
 
+            //convert string number to int number sum
+
+            string Istring = "15";
+            string secondstring = "45";
+            int Num1 = Int32.Parse(Istring);
+            int Num2 = Int32.Parse(secondstring);
+            int result = Num1 + Num2;
+            Console.WriteLine(result);
 
             Console.ReadKey();
 
