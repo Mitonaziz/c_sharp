@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mdazizurrahman/Desktop/git all file/c# all file/file1/file1/file1.csproj",
+      "projectUniqueName": "/Users/mdazizurrahman/Desktop/git all file/c# all file/c_sharp/file1/file1/file1.csproj",
       "projectName": "file1",
-      "projectPath": "/Users/mdazizurrahman/Desktop/git all file/c# all file/file1/file1/file1.csproj",
+      "projectPath": "/Users/mdazizurrahman/Desktop/git all file/c# all file/c_sharp/file1/file1/file1.csproj",
       "packagesPath": "/Users/mdazizurrahman/.nuget/packages/",
-      "outputPath": "/Users/mdazizurrahman/Desktop/git all file/c# all file/file1/file1/obj/",
+      "outputPath": "/Users/mdazizurrahman/Desktop/git all file/c# all file/c_sharp/file1/file1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mdazizurrahman/.config/NuGet/NuGet.Config"
