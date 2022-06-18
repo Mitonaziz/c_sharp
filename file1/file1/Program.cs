@@ -34,6 +34,19 @@ namespace file1
 
             num = Convert.ToInt32(num2);//convert flot to int 
             Console.WriteLine(num);
+
+
+            //String concatenation
+            int age = 21;
+            string name = "Azizur";
+            Console.WriteLine("Hellow my name is= " + name + "I am " + age + "years old");
+
+
+            //string formatting uses index
+            Console.WriteLine("Hellow my name is {0},I am {1} years old", name, age);
+
+
+
             Console.ReadKey();
 
 
