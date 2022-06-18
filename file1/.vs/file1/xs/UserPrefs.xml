@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{35BDD785-BBAF-43E4-9130-06EC33F18CE5}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="file1/Program.cs">
     <Files>
-      <File FileName="file1/Program.cs" Line="30" Column="31" />
+      <File FileName="file1/Program.cs" Line="25" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,7 +19,9 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/mdazizurrahman/Desktop/git all file/c# all file/c_sharp/file1/file1/Program.cs" relfile="file1/Program.cs" line="27" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

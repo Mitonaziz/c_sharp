@@ -21,7 +21,22 @@ namespace file1
             string first_name = "Azizur";
             string last_name = "Rahman";
             Console.WriteLine("My first Name is " + first_name + " Last name is " +last_name);
+
+
+            //casting and type conversion
+            int num = 20;
+            string account_num = "";
+            account_num = num.ToString();//convert number to string
+
+            Console.WriteLine(account_num);
+
+            float num2 = 3.5f;
+
+            num = Convert.ToInt32(num2);//convert flot to int 
+            Console.WriteLine(num);
             Console.ReadKey();
+
+
         }
     }
 }
