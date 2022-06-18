@@ -45,6 +45,21 @@ namespace file1
             //string formatting uses index
             Console.WriteLine("Hellow my name is {0},I am {1} years old", name, age);
 
+            //upper case,lower case,substring
+            string myname;
+            Console.WriteLine("Enter your name = ");
+            myname = Console.ReadLine();
+            string myNameuppercase = string.Format("uppercase :{0} ", myname.ToUpper());
+
+            string myNameLowercase = string.Format("LowerCase : {0}", myname.ToLower());
+
+            string myNameTrimmed = string.Format("The trimmed valu : {0}", myname.Trim());
+
+            string myNamesubstring = string.Format("the substring :{0}", myname.Substring(0, 5));
+            Console.WriteLine(myNameuppercase);
+            Console.WriteLine(myNameLowercase);
+            Console.WriteLine(myNameTrimmed);
+            Console.WriteLine(myNamesubstring);
 
 
             Console.ReadKey();
