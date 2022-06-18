@@ -1,0 +1,13 @@
+/Users/mdazizurrahman/Desktop/git all file/c# all file/file1/file1/bin/Debug/netcoreapp3.1/file1.deps.json
+/Users/mdazizurrahman/Desktop/git all file/c# all file/file1/file1/bin/Debug/netcoreapp3.1/file1.runtimeconfig.json
+/Users/mdazizurrahman/Desktop/git all file/c# all file/file1/file1/bin/Debug/netcoreapp3.1/file1.runtimeconfig.dev.json
+/Users/mdazizurrahman/Desktop/git all file/c# all file/file1/file1/bin/Debug/netcoreapp3.1/file1.dll
+/Users/mdazizurrahman/Desktop/git all file/c# all file/file1/file1/bin/Debug/netcoreapp3.1/file1.pdb
+/Users/mdazizurrahman/Desktop/git all file/c# all file/file1/file1/obj/Debug/netcoreapp3.1/file1.csproj.AssemblyReference.cache
+/Users/mdazizurrahman/Desktop/git all file/c# all file/file1/file1/obj/Debug/netcoreapp3.1/file1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mdazizurrahman/Desktop/git all file/c# all file/file1/file1/obj/Debug/netcoreapp3.1/file1.AssemblyInfoInputs.cache
+/Users/mdazizurrahman/Desktop/git all file/c# all file/file1/file1/obj/Debug/netcoreapp3.1/file1.AssemblyInfo.cs
+/Users/mdazizurrahman/Desktop/git all file/c# all file/file1/file1/obj/Debug/netcoreapp3.1/file1.csproj.CoreCompileInputs.cache
+/Users/mdazizurrahman/Desktop/git all file/c# all file/file1/file1/obj/Debug/netcoreapp3.1/file1.dll
+/Users/mdazizurrahman/Desktop/git all file/c# all file/file1/file1/obj/Debug/netcoreapp3.1/file1.pdb
+/Users/mdazizurrahman/Desktop/git all file/c# all file/file1/file1/obj/Debug/netcoreapp3.1/file1.genruntimeconfig.cache
